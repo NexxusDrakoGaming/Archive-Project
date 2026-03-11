@@ -147,3 +147,7 @@ https://sullygnome.com/channel/nexxus_drako
 https://vtubie.com/nexxus-drako/
 
 https://hub.vroid.com/en/characters/1738764484006502317/models/1363944454341122678
+
+# IRC and Chat Logs
+
+https://github.com/NexxusDrakoGaming/DiscordDumps
