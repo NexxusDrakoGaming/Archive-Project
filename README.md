@@ -1,5 +1,9 @@
 *The CC0 license only applies to this document of Links for the Nexxus Drako Archive Project, and does not extend to the content of said links. We give no guarantees about any link's reliability, relevance, or content. Proceed at your own risk.*
 
+
+# ARXIV - Google Drive
+## https://drive.google.com/drive/folders/1qK4s59CuTpNcr2eYRTvBve5vpEiLkRH5?usp=sharing
+
 # Early Jarokn Link Dump
 
 https://web.archive.org/web/20111114011351/http://jarokn.com/
